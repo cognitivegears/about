@@ -1,0 +1,4 @@
+baseURL = 'https://nathan.byrd.bio/'
+languageCode = 'en-us'
+title = 'About - Nathan Byrd'
+theme = 'hugo-resume'
